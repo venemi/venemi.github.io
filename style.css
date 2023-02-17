@@ -13,14 +13,14 @@ body
 }
 
 <!--Fonts-->
-@font-face { font-family: Signalist; src: url('czcionki/Signalist.ttf'); }
-@font-face { font-family: Signalist; font-weight: bold; src: url('czcionki/Signalist.ttf');}
+@font-face { font-family: Signalist; src: url('https://venemi.github.io/czcionki/Signalist.ttf'); }
+@font-face { font-family: Signalist; font-weight: bold; src: url('https://venemi.github.io/czcionki/Signalist.ttf');}
 
-@font-face { font-family: FIL; src: url('czcionki/fil.ttf'); }
-@font-face { font-family: FIL; font-weight: bold; src: url('czcionki/fil.ttf');}
+@font-face { font-family: FIL; src: url('https://venemi.github.io/czcionki/fil.ttf'); }
+@font-face { font-family: FIL; font-weight: bold; src: url('https://venemi.github.io/czcionki/fil.ttf');}
 
-@font-face { font-family: FIL; src: url('czcionki/Japanese3017.ttf'); }
-@font-face { font-family: FIL; font-weight: bold; src: url('czcionki/Japanese3017.ttf');}
+@font-face { font-family: FIL; src: url('https://venemi.github.io/czcionki/Japanese3017.ttf'); }
+@font-face { font-family: FIL; font-weight: bold; src: url('https://venemi.github.io/czcionki/Japanese3017.ttf');}
 
 .wotn
 {
