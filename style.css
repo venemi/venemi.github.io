@@ -19,8 +19,8 @@ body
 @font-face { font-family: FIL; src: url('https://venemi.github.io/czcionki/fil.ttf'); }
 @font-face { font-family: FIL; font-weight: bold; src: url('https://venemi.github.io/czcionki/fil.ttf');}
 
-@font-face { font-family: FIL; src: url('https://venemi.github.io/czcionki/DFPOCOC.TTF'); }
-@font-face { font-family: FIL; font-weight: bold; src: url('https://venemi.github.io/czcionki/DFPOCOC.TTF');}
+@font-face { font-family: FIL; src: url('https://venemi.github.io/czcionki/Japanese3017.ttf'); }
+@font-face { font-family: FIL; font-weight: bold; src: url('https://venemi.github.io/czcionki/Japanese3017.ttf');}
 
 .wotn
 {
