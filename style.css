@@ -1,6 +1,6 @@
 body
 {
-  background-color: rgb(40, 33, 33);
+  background-color: rgb(255, 255, 255);
   display: block;
 }
 
@@ -27,6 +27,7 @@ body
   font-family:itsworkingsomehow;
   font-size: 75px;
   text-shadow: 0 0 3px #000;
+  color: #A079BC;
 }
 .nazwa
 {
