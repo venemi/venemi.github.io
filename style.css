@@ -1,6 +1,6 @@
 body
 {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(98, 89, 122);
   display: block;
 }
 
@@ -134,7 +134,7 @@ a
   bottom:0;
   left:0;
   z-index:-1;
- background: linear-gradient(to bottom, rgba(255, 255, 255, 0.12) 40%,rgb(255, 255, 255) 100%);
+ background: linear-gradient(to bottom, rgb(98, 89, 122, 0.12) 40%, rgb(98, 89, 122) 100%);
 }
 .header:before
 {
