@@ -32,7 +32,7 @@ body
 .nazwa
 {
   font-family: FIL;
-  font-size: 40px;
+  font-size: 55px;
   text-shadow: 0 0 3px #000;
 }
 i:hover
@@ -215,8 +215,8 @@ a
 .author
 {
   display:inline-block;
-  width:50px;
-  height:50px;
+  width:55px;
+  height:55px;
   border-radius:50%;
   background:url(https://cdn.discordapp.com/attachments/725853853119021106/1076453351262269481/avatar200.jpg) center no-repeat;
   background-size:cover;
@@ -225,7 +225,7 @@ a
 }
 .info h4, .meta
 {
-  font-size:0.7em
+  font-size:0.8em
 }
 .meta{
   font-style:italic;
